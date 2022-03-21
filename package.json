@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Assassin-1234/API-template/issues"
   },
-  "homepage": "https://github.com/Assassin-1234/API-template#readme"
+  "homepage": "https://github.com/Assassin-1234/API-template#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7"
+  }
 }
